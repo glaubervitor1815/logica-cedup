@@ -1,0 +1,6 @@
+ A=V B=F C=F e D=V
+
+2) S = (D v A ^ C) v ~(B v C) =F
+3) S = ~(A v B) =V
+4) S = ~(A ^ B) =F
+5) S = C v ~B ^ (A v ~D) =
